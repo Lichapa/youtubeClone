@@ -1,0 +1,45 @@
+.nav {
+    top: 0;
+    width: 100%;
+    padding: 0 15px;
+    height: 30px;
+}
+
+ul.navbarlinks {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li.navlinks {
+    display: inline;
+    padding: 10px;
+    max-height: 40px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a img {
+    width: 30px;
+    height: 30px;
+}
+
+.left {
+    float: left;
+    padding: 10px;
+}
+
+.right {
+    float: right;
+    padding: 10px;
+}
+
+.center {
+    float: center;
+    width: 30%;
+    padding: 10px;
+    padding-left: 40%;
+}
